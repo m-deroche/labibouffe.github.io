@@ -1,2 +1,2 @@
 # labibouffe.github.io
-good eat bouffe
+good eat food
