@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: labibouffe.xyz
+Token: 4c61677eceab346237ca4f6881bbc0f88eca49e39d069a7a90b0659e40518930
